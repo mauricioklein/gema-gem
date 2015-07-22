@@ -1,0 +1,5 @@
+class Gema
+  def self.print
+    puts
+  end
+end
